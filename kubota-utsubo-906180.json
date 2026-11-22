@@ -25,30 +25,14 @@
    "note": "国立国会図書館の全文テキスト（OCR）のまま"
   }
  ],
- "status": "未校正",
+ "status": "下校正済み",
  "license": {
   "text": "CC0 1.0"
  },
  "translation": {
-  "count": 69
+  "count": 68
  },
  "blocks": [
-  {
-   "id": "kubota-utsubo-906180-0001",
-   "pid": "906180",
-   "pages": [
-    4
-   ],
-   "no": null,
-   "maki": "",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "352g7特101そうわわ",
-   "sachu": "",
-   "poems": []
-  },
   {
    "id": "kubota-utsubo-906180-0002",
    "pid": "906180",
@@ -1106,22 +1090,6 @@
    "poems": []
   },
   {
-   "id": "kubota-utsubo-906180-0068",
-   "pid": "906180",
-   "pages": [
-    71
-   ],
-   "no": null,
-   "maki": "序",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "大正七年四月十日印刷大正七年四月廿五日發行泉のほとり定價金六拾錢著者窪田空穂東京市日本橋區檜物町九番地發行者西村寅次郎東京市神田區宮本町五番地印刷者高橋治一發行所東京市日本橋區檜物町九番地東雲堂書店電話本局一八七一番(振替東京五六一四番)",
-   "sachu": "",
-   "poems": []
-  },
-  {
    "id": "kubota-utsubo-906180-0069",
    "pid": "906180",
    "pages": [
@@ -1163,10 +1131,10 @@
   "era": "大正時代",
   "author": "窪田空穂",
   "kind": "prose",
-  "blocks": 70,
-  "chars": 11626,
+  "blocks": 68,
+  "chars": 11173,
   "poems": 0,
-  "yaku": 69,
+  "yaku": 68,
   "editions": 1,
   "updated": "2026-11-22",
   "updated_at": "2026-11-22T17:57:25+09:00"
